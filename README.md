@@ -1,2 +1,2 @@
 # NTFSLearning
-NTFS Learning tool for Digital Forensics instructors and students 
+NTFS Learning visual tool for Digital Forensics instructors and students 
